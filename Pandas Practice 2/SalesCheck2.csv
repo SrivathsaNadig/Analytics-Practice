@@ -1,0 +1,21 @@
+Order ID,Product Name,Category,Quantity Sold,Price per Unit,Total Sales,Customer Name,Order Date,City,Country,Rating,Stock,Supplier Name,Sales Channel,Payment Method,Delivery Time (Days),Return Rate (%)
+1,Demon Slayer: Kimetsu no Yaiba - Tanjiro Figure,Figurines,5,25,125,Alice,1/1/2024,New York,USA,4.5,20,AnimeFigures Co.,Online,Credit Card,3,2
+2,Attack on Titan Season 1 DVD Box Set,Anime,3,15,45,Bob,1/2/2024,Los Angeles,USA,4,15,AnimeSuppliers Inc.,Retail,PayPal,5,1.5
+3,My Hero Academia: All Might Pop Figure,Figurines,,20,,Charlie,1/3/2024,Chicago,USA,5,10,HeroFigures Co.,Online,Credit Card,4,0
+4,Blackpink: The Album,Music,1,10,10,David,1/4/2024,Miami,USA,3.5,5,MusicSuppliers Inc.,Retail,Cash,7,3
+5,One Piece: Luffy Figure,Figurines,4,30,120,Eva,1/5/2024,Seattle,USA,4.8,25,FigurineSupplier LLC,Online,Credit Card,2,1
+6,Naruto Shippuden: Kakashi Figure,Figurines,10,20,200,Frank,1/6/2024,San Francisco,USA,4.7,30,NinjaFigures Co.,Online,PayPal,3,0.5
+7,Jujutsu Kaisen: Yuuta Okkotsu Figure,Figurines,2,18,36,Grace,1/7/2024,Boston,USA,4.2,12,SorceryFigures Inc.,Retail,Credit Card,4,2.5
+8,Your Name Blu-ray,Anime,3,22,66,Helen,1/8/2024,Dallas,USA,4.9,8,AnimeSuppliers Co.,Online,Cash,6,1
+9,Cowboy Bebop: Complete Series DVD,Anime,1,50,50,Ian,1/9/2024,Atlanta,USA,4,15,ClassicAnime Inc.,Retail,PayPal,2,3
+10,Studio Ghibli: The Art of Spirited Away,Book,4,12,48,Jane,1/10/2024,Seattle,USA,,20,GhibliBooks LLC,Online,Credit Card,5,1
+11,Demon Slayer: Nezuko Figure,Figurines,6,28,168,Kyle,1/11/2024,New York,USA,4.6,10,AnimeFigures Co.,Retail,Cash,3,0
+12,Attack on Titan Season 2 DVD Box Set,Anime,5,14,70,Laura,1/12/2024,Los Angeles,USA,4.1,25,AnimeSuppliers Inc.,Online,PayPal,4,2
+13,One Punch Man: Saitama Figure,Figurines,2,25,50,Mike,1/13/2024,Chicago,USA,3.5,15,HeroFigures Co.,Retail,Credit Card,6,3
+14,Spirited Away: Chihiro Figure,Figurines,3,35,105,Nancy,1/14/2024,Miami,USA,4.3,5,GhibliFigures LLC,Online,Cash,2,1.5
+15,Cowboy Bebop Soundtrack,Music,1,20,20,Oliver,1/15/2024,San Francisco,USA,4,10,MusicSuppliers Inc.,Retail,Credit Card,3,2.5
+16,My Neighbor Totoro Plush,Figurines,8,15,120,Peter,1/16/2024,Seattle,USA,4.8,30,TotoroPlush Co.,Online,PayPal,4,0.5
+17,Howl's Moving Castle DVD,Anime,3,30,90,Quinn,1/17/2024,Atlanta,USA,4.6,12,GhibliSuppliers LLC,Retail,Credit Card,3,1
+18,Naruto: Shippuden DVD Box Set,Anime,4,18,72,Rachel,1/18/2024,Boston,USA,4.4,8,AnimeSuppliers Co.,Online,Cash,5,2
+19,Dragon Ball Z: Goku Figure,Figurines,2,40,80,Steve,1/19/2024,New York,USA,4.2,15,DragonBallFigures LLC,Retail,PayPal,6,1.5
+20,Fullmetal Alchemist: Brotherhood DVD Box Set,Anime,5,10,50,Tina,1/20/2024,Los Angeles,USA,3.9,20,AnimeSuppliers Inc.,Online,Credit Card,2,3

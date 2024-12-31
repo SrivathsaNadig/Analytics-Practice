@@ -1,0 +1,29 @@
+"""
+Questions to consider while working with this dataset:
+
+1. How many missing values are present in each column?
+   - Use the appropriate Pandas function to count missing values.
+
+2. What strategies can you use to fill the missing values in the 'Quantity Sold' column?
+   - Consider using mean, median, or mode to fill missing values.
+
+3. How will you handle missing values in the 'Total Sales' column?
+   - Think about whether to fill in the missing values or drop the rows.
+
+4. For the 'Rating' column, what would be a reasonable value to fill in for missing data?
+   - You might want to consider the average rating of other products.
+
+5. After filling the missing values, how can you verify that there are no remaining missing values in the DataFrame?
+   - Use a function to check for missing values again after filling them.
+
+6. What impact might filling in missing values have on your analysis?
+   - Consider how this could affect statistical calculations and overall data integrity.
+
+7. What are the top three products in terms of total sales revenue? Provide a breakdown of their sales figures.
+
+8. Can you identify which city has the highest number of orders? What does this tell us about our customer base in that location?
+
+9. How do the average ratings differ across product categories (e.g., Figurines, Anime, Music)? Are there any categories that consistently receive higher ratings?
+
+10. Is there any correlation between delivery time and customer ratings? How does delivery time affect customer satisfaction?
+"""
