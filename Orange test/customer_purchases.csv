@@ -1,0 +1,11 @@
+CustomerID,Age,Income,Gender,Purchased
+1,25,50000,Male,Yes
+2,30,60000,Female,No
+3,22,45000,Female,Yes
+4,35,70000,Male,No
+5,28,52000,Male,Yes
+6,40,80000,Female,Yes
+7,23,48000,Female,No
+8,33,75000,Male,Yes
+9,29,62000,Female,No
+10,31,72000,Male,Yes
